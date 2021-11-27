@@ -24,13 +24,12 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeoneofc/Alphab0t11/blob/master/session.json#L1)
+[`Click Here`](https://github.com/OxBrutal/KoiB0Tz/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeoneofc/Alphab0t11/blob/master/settings.json#L1)
-- Owner name [Here](https://github.com/zeeoneofc/Alphab0t11/blob/master/settings.json#L1)
-- Botname [Here](https://github.com/zeeoneofc/Alphab0t11/blob/master/settings.json#L1)
+- Owner number [Here](https://github.com/OxBrutal/KoiB0Tz/blob/master/settings.json#L1)
+- Botname [Here](https://github.com/OxBrutal/KoiB0Tz/blob/master/settings.json#L1)
 
 ## `CHANGE DYNO`
 
@@ -53,15 +52,13 @@ Off in web nya
 </p>
 
 
-## ```COFFEE```
+## ```INDOMIE```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/qyuugz)
 
-## ```GROUP SUPPORT```
+## ```GROUP REALMS```
 
-- [`Alphabot 1`](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
+- [`Kanai SMP`](https://chat.whatsapp.com/CLopSmfMKcy0loWGu0XwWA)
 
 ## `THANKS TO`
 
