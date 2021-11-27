@@ -1,15 +1,4 @@
-# ```SELF-BOT```
-<p align="center">
-<a href="https://github.com/OxBrutal/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/OxBrutal/KoiB0Tz/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Alphab0t11?color=blue&style=flat-square"></a>
-<a href="https://github.com/OxBrutal/KoiB0Tz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Alphab0t11?color=red&style=flat-square"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
-
--------
-
-## `ADD BUILDPACK`
+# ```ADD BUILDPACK```
 
 ```
 > heroku/nodejs
